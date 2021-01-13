@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7eedd43-cf69-45d4-a2e8-e4e2dee8a736" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJSnMUovFHAd4J4Gy9EEP1sniq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/python_aulas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aula_86">
+    <configuration name="aula_86" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_aulas/aula_86.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex109" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex109/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex110" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex110/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex111/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex112" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex112/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula_86" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.teste (5)" />
+        <item itemvalue="Python.teste (4)" />
+        <item itemvalue="Python.teste (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7eedd43-cf69-45d4-a2e8-e4e2dee8a736" name="Default Changelist" comment="" />
+      <created>1590245369042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590245369042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="52" width="732" height="640" key="#Inspections" timestamp="1591119449455">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="297" y="52" width="732" height="640" key="#Inspections/0.30.1366.738@0.30.1366.738" timestamp="1591119449455" />
+    <state x="278" y="36" width="800" height="732" key="#Intentions" timestamp="1591881252815">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="36" width="800" height="732" key="#Intentions/0.30.1366.738@0.30.1366.738" timestamp="1591881252815" />
+    <state x="552" y="251" width="251" height="266" key="#Notifications" timestamp="1591803422019">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="552" y="251" width="251" height="266" key="#Notifications/0.30.1366.738@0.30.1366.738" timestamp="1591803422019" />
+    <state x="345" y="27" width="666" height="741" key="#aula_06" timestamp="1590246454848">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="345" y="27" width="666" height="741" key="#aula_06.py" timestamp="1590246502041">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="345" y="27" width="666" height="741" key="#aula_06.py/0.27.1366.741@0.27.1366.741" timestamp="1590246502041" />
+    <state x="345" y="27" width="666" height="741" key="#aula_06.py4e" timestamp="1590246463085">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="345" y="27" width="666" height="741" key="#aula_06.py4e/0.27.1366.741@0.27.1366.741" timestamp="1590246463085" />
+    <state x="345" y="27" width="666" height="741" key="#aula_06/0.27.1366.741@0.27.1366.741" timestamp="1590246454848" />
+    <state x="416" y="131" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591971019764">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="416" y="131" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1366.738@0.30.1366.738" timestamp="1591971019764" />
+    <state x="466" y="140" width="424" height="487" key="FileChooserDialogImpl" timestamp="1593357655107">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="466" y="140" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1593357655107" />
+    <state width="1343" height="264" key="GridCell.Tab.0.bottom" timestamp="1592570819671">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="185" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590347240988" />
+    <state width="1343" height="264" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1592570819671" />
+    <state width="1343" height="264" key="GridCell.Tab.0.center" timestamp="1592570819670">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="185" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1590347240986" />
+    <state width="1343" height="264" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1592570819670" />
+    <state width="1343" height="264" key="GridCell.Tab.0.left" timestamp="1592570819668">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="185" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1590347240984" />
+    <state width="1343" height="264" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1592570819668" />
+    <state width="1343" height="264" key="GridCell.Tab.0.right" timestamp="1592570819670">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="185" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1590347240987" />
+    <state width="1343" height="264" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1592570819670" />
+    <state width="1343" height="229" key="GridCell.Tab.1.bottom" timestamp="1591803475502">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="229" key="GridCell.Tab.1.bottom/0.30.1366.738@0.30.1366.738" timestamp="1591803475502" />
+    <state width="1343" height="229" key="GridCell.Tab.1.center" timestamp="1591803475501">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="229" key="GridCell.Tab.1.center/0.30.1366.738@0.30.1366.738" timestamp="1591803475501" />
+    <state width="1343" height="229" key="GridCell.Tab.1.left" timestamp="1591803475501">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="229" key="GridCell.Tab.1.left/0.30.1366.738@0.30.1366.738" timestamp="1591803475501" />
+    <state width="1343" height="229" key="GridCell.Tab.1.right" timestamp="1591803475502">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="229" key="GridCell.Tab.1.right/0.30.1366.738@0.30.1366.738" timestamp="1591803475502" />
+    <state x="157" y="30" width="1022" height="733" key="SettingsEditor" timestamp="1590932371505">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="157" y="30" width="1022" height="733" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1590932371505" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591968672627">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1591968672627" />
+  </component>
+</project>
